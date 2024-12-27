@@ -2,7 +2,7 @@
 
 Hii! 👋 I’m Subhashin Mantha, a passionate web developer 💻 and aspiring designer 🎨 who loves turning ideas into impactful digital experiences. From solving complex problems 🧩 to designing intuitive interfaces, I’m constantly striving to grow and innovate.
 
-🛠 Skills & Tools<br>
+<h4> 🛠 Skills & Tools</h4><br>
 Web Development: Crafting responsive websites with HTML, CSS, and JavaScript 🖥.<br>
 UI/UX Design: Creating user-friendly designs with tools like Figma ✏.<br>
 Technologies: GitHub, VS Code, ChatGPT, Canva
