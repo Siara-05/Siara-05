@@ -1,10 +1,11 @@
 <h1 align="center">
-✨ Hey, I’m <span style="color:#ff79c6;">Siara</span> — I design & build interactive web experiences ✨
-</h1>
+✨ Hey, I’m <span style="color:#ff79c6;">Siara</span>✨
+</h1><hr>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F97AC2&width=435&lines=Web+Designer+%7C+Frontend+Developer;Making+websites+feel+alive;Design.+Code.+Animate." alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&weight=600&pause=1000&color=F97AC2&width=500&lines=Web+Designer+%7C+Frontend+Developer;Making+websites+feel+alive;Design.+Code.+Animate." alt="Typing SVG" />
 </p>
+
 
 ---
 
