@@ -1,32 +1,48 @@
-## Hi there 👋
+<h1 align="center">Hi, I’m Siara 👋</h1>
 
-Hii! 👋 I’m Subhashin Mantha, a passionate web developer 💻 and aspiring designer 🎨 who loves turning ideas into impactful digital experiences. From solving complex problems 🧩 to designing intuitive interfaces, I’m constantly striving to grow and innovate.
+<p align="center">
+I design. I build. I bring websites to life.
+</p>
 
-<h3> 🛠 Skills & Tools:</h3> 
-▪️ Web Development: Crafting responsive websites with HTML, CSS, and JavaScript 🖥.<br>
-▪️UI/UX Design: Creating user-friendly designs with tools like Figma ✏.<br>
-▪️Technologies: GitHub, VS Code, ChatGPT, Canva<br>
+---
 
-<h3>🌱 My Learning Journey<h3>
+### 🌿 About
 
-<h4>🔹I’m on a path of continuous growth 📚. Currently, I’m enhancing my JavaScript expertise to build dynamic features 🔧 and exploring UI/UX design principles to deliver seamless and visually appealing experiences 🎭</h4>
+- UI/UX + Frontend  
+- Making the web simple, smooth & human  
+- Love clean layouts, cool animations, and thoughtful interactions  
+- I design with Figma, code with CSS & JS, and play with new ideas  
 
-<h3>🚀 My Vision</h3>
+---
 
-<h4>🔹I aim to combine technical expertise and creativity ✨ to craft digital solutions that are both functional and visually captivating. My goal is to bridge the gap between design and development, delivering user experiences that are seamless, engaging, and impactful 🌈.</h4>
+### 🔧 Toolbox
 
-<h4>💬 I’m always open to connecting, exchanging ideas 💡, and collaborating on creative projects. Let’s build something amazing together!</h4> 
-<!--
-**Siara-05/Siara-05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+`Design` — Figma, Pen & Paper  
+`Frontend` — HTML5, CSS3, JavaScript, Tailwind, GSAP  
+`Workflow` — GitHub, VSCode  
+`Vibe` — Micro-interactions, 3D touches, Minimalism  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Now
+
+- Building websites that feel real  
+- Learning React & better design systems  
+- Exploring AI for smarter, faster creativity  
+
+---
+
+### 🌸 Small Details
+
+- I like simple things that leave a mark  
+- Good design = fewer clicks, more connection  
+- Always curious, always improving  
+
+---
+
+<p align="center">
+Let’s connect — [LinkedIn](YourLinkHere) | Portfolio coming soon 🌐
+</p>
+
+---
+
