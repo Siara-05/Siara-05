@@ -1,5 +1,5 @@
 <h1 align="center">
-✨ Hey, I’m <span style="color:#ff79c6;">Siara</span>✨
+✨ Hey, I’m <span style="color:#ff79c6;"> Subhashin (also known as Siara)</span>✨
 </h1><hr>
 
 <!--<p align="center">
