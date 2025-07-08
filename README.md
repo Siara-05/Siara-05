@@ -52,7 +52,7 @@
 ---
 
 <p align="center">
-<a href="YourLinkedInLinkHere"><img src="https://img.shields.io/badge/Let's Connect-ff79c6?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="(https://www.linkedin.com/in/subhashin-m-585797280/)"><img src="https://img.shields.io/badge/Let's Connect-ff79c6?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 </p>
 
 ---
