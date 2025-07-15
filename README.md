@@ -14,8 +14,8 @@
 
 ## 🌸 About Me
 
-🎨 I design with care — simple, clean, but full of life  
-💻 I code websites that feel alive — smooth, interactive, fun  
+🎨 I design with care — simple, clean, but full of life  :)
+💻 I code websites that feel alive — smooth, interactive, fun  *v*
 🛠️ Exploring creative coding with **CSS, JS, GSAP & Figma**  
 🌐 Love blending design & dev to solve real problems  
 
@@ -34,7 +34,7 @@
 
 ---
 
-## 🎯 Currently
+## 🎯 Currently 
 
 - Creating ✨ animated, interactive websites  
 - Building my design system & component libraries  
