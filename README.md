@@ -19,6 +19,7 @@
 🛠️ Exploring creative coding with **CSS, JS, GSAP & Figma**  
 🌐 Love blending design & dev to solve real problems  
 
+
 ---
 
 ## ⚡ Tech & Tools
@@ -78,6 +79,7 @@
 ---
 
 <p align="center">
+   Let's Connect on Linkedin <br> <br>
 <a href="https://www.linkedin.com/in/subhashin-m-585797280/"><img src="https://img.shields.io/badge/Let's Connect-ff79c6?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 </p>
 
