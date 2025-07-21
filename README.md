@@ -86,7 +86,7 @@
 ---
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Siara-05&show_icons=true&theme=radical" alt="GitHub Stats"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Siara-05&show_icons=true&theme=radical" alt="Github Stats"/>
 </p>
 
 <p align="center">
